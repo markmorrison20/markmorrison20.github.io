@@ -1,0 +1,107 @@
+@font-face {
+    font-family: Kalos Sans;
+    src: url(Font/kalos.ttf);
+}
+
+body {
+    background-color: #fdfdfd;
+}
+
+* {
+    font-family:Kalos;
+    font-size: 100%;
+    background-color: #fdfdfd;
+}
+h1 {
+    font-family: kalos sans;
+}
+
+h2 {
+    font-family: kalos sans;
+}
+
+a.dropdown-item {
+    font-family: kalos sans;
+}
+
+a.nav-link {
+    font-family: kalos sans;
+    font-size: 125%;
+}
+
+.nav {
+    font-family: kalos sans;
+}
+
+.nav {
+    justify-content: center;
+}
+
+.nav-item {
+    margin: 0 auto
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 0 auto;
+}
+
+a:hover {
+    color: #7BCC9B;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+#spacerRow {
+    height: 5vh;
+}
+
+.row {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.socialmedia { 
+    display: inline;
+    text-decoration: none;
+    margin-left: 2%;
+    margin-right:2%;
+}
+#extralink{
+    text-decoration: underline;
+    color: #509F9B;
+}
+
+a#extralink:hover{
+    font-weight: normal;
+}
+
+#breadcrumb{
+    font-size: 150%;
+}
+#bio{
+    text-align: left;
+}
+#sig{
+    width: 50%;
+}
+#biopic{
+    width: 80%;
+    position: relative;
+    bottom: 5%;
+}
+#blogpic{
+    width: 80%;
+    text-align:center;
+    margin: 3%;
+}
+.footer{
+    margin: 1%;
+}
+
+.fa{
+    
+}
