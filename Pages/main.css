@@ -5,6 +5,8 @@
 
 body {
     background-color: #fdfdfd;
+    margin-left: 9%;
+    margin-right: 9%;
 }
 
 * {
@@ -38,7 +40,7 @@ a.nav-link {
 }
 
 .nav-item {
-    margin: 0 auto
+    margin: 0 auto;
 }
 
 a {
@@ -62,6 +64,7 @@ img {
 .row {
     margin-top: 2%;
     margin-bottom: 2%;
+    
 }
 
 .socialmedia { 
@@ -102,6 +105,3 @@ a#extralink:hover{
     margin: 1%;
 }
 
-.fa{
-    
-}
